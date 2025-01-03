@@ -85,6 +85,6 @@ int main()
 
 	Printer<string> per;
 	per.Print("Hello");
-
+	int r = 10;
 	return 0;
 }
